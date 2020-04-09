@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner
+{
+    height: auto;
+    position: relative;
+}
+.slider
+{
+    width: 100%;
+        
+}
+.carouseel-caption
+{ 
+    font-family: sans-serif;
+max-height: 350px;
+    max-width: 508px;
+    text-align: left;
+    right: auto;
+    left: 60px;
+    
+    
+}
+.carouseel-caption h1
+{
+    font-size: 70px;
+}
